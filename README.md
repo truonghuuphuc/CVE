@@ -8,6 +8,6 @@
 | CVE-2022-24266 |  SQL injection vulnerability in /administrator/components/table_manager/ via the order_by parameter. | update | https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-24266 | https://nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-24266 |
 | CVE-2022-23872 | stored cross-site scripting (XSS) in /admin/configure.php via the parameter footer_info. | update | https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-23872 | https://nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23872 |
 | CVE-2022-22868       | Gibbon CMS v22.0.01 Stored XSS via name parameters. | 4.8 | https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-22868 | https://nvd.nist.gov/vuln/detail/CVE-2022-22868 |
-| CVE-2022-23357       |
+| CVE-2022-23357       | mozilo2.0 was discovered to be vulnerable to directory traversal attacks via the parameter curent_dir.| update | https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-23357 | https://nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23357 |
 | CVE-2022-23871       | Multiple cross-site scripting (XSS) vulnerabilities in the component outcomes_addProcess.php of Gibbon CMS v22.0.01 allow attackers to execute arbitrary web scripts or HTML via a crafted payload insterted into the name, category, description parameters.| update | https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-23871 | https://nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23871|
-| CVE-2022-23873       |
+| CVE-2022-23873       | Victor CMS v1.0 was discovered to contain a SQL injection vulnerability that allows attackers to inject arbitrary commands via 'user_firstname' parameter.| update | https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-23873 | https://nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23873 |
