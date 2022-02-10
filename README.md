@@ -2,7 +2,6 @@
 ---
 | CVE ID               | Description| CVSS 3.0  |       CVE MITRE           |       NVD           | 
 | -------------------- | --------- | --------- | -------------------------| --------------------| 
-|CVE-2022-24263        | SQL injection vulnerability in /Hospital-Management-System-master/func.php via the email parameter| 9.8 | https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-24263 | https://nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-24263|
 | CVE-2022-24264       | SQL injection vulnerability in /administrator/components/table_manager/ via the search_word parameter| 7.5 | https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-24264 | https://nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-24264 |
 | CVE-2022-24265       | SQL injection vulnerability in /administrator/components/menu/ via the path=component/menu/&menu_filter=3 parameter.| 7.5 | https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-24265 | https://nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-24265 |
 | CVE-2022-24266 |  SQL injection vulnerability in /administrator/components/table_manager/ via the order_by parameter. | 7.5 | https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-24266 | https://nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-24266 |
@@ -11,3 +10,4 @@
 | CVE-2022-23357       | mozilo2.0 was discovered to be vulnerable to directory traversal attacks via the parameter curent_dir.| 9.1 | https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-23357 | https://nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23357 |
 | CVE-2022-23871       | Multiple cross-site scripting (XSS) vulnerabilities in the component outcomes_addProcess.php of Gibbon CMS v22.0.01 allow attackers to execute arbitrary web scripts or HTML via a crafted payload insterted into the name, category, description parameters.| 5.4 | https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-23871 | https://nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23871|
 | CVE-2022-23873       | Victor CMS v1.0 was discovered to contain a SQL injection vulnerability that allows attackers to inject arbitrary commands via 'user_firstname' parameter.| 8.8 | https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-23873 | https://nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23873 |
+|CVE-2022-24263        | SQL injection vulnerability in /Hospital-Management-System-master/func.php via the email parameter| 9.8 | https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-24263 | https://nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-24263|
