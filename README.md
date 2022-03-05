@@ -12,3 +12,4 @@
 | CVE-2022-23873       | Victor CMS v1.0 was discovered to contain a SQL injection vulnerability that allows attackers to inject arbitrary commands via 'user_firstname' parameter.| 8.8 | https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-23873 | https://nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-23873 |
 |CVE-2022-24263        | SQL injection vulnerability in /Hospital-Management-System-master/func.php via the email parameter| 9.8 | https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-24263 | https://nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-24263|
 |CVE-2022-24563 | Genixcms v1.1.11, a stored Cross-Site Scripting (XSS) | update | https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-24563 | https://nvd.nist.gov/vuln/detail/CVE-2022-24563|
+| CVE-2022-26201 | Victor CMS v1.0 SQL Injection | update |https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-26201 | https://nvd.nist.gov/vuln/detail/CVE-2022-26201 |
