@@ -2,6 +2,7 @@
 ---
 | CVE ID               | Description| CVSS 3.0  |       CVE MITRE           |       NVD           | 
 | -------------------- | --------- | --------- | -------------------------| --------------------| 
+| CVE-2024-35736       | Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Themeisle Visualizer.This issue affects Visualizer: from n/a through 3.11.1.| | https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-35736 | https://nvd.nist.gov/vuln/detail/CVE-2024-35736|
 | CVE-2022-24264       | SQL injection vulnerability in /administrator/components/table_manager/ via the search_word parameter| 7.5 | https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-24264 | https://nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-24264 |
 | CVE-2022-24265       | SQL injection vulnerability in /administrator/components/menu/ via the path=component/menu/&menu_filter=3 parameter.| 7.5 | https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-24265 | https://nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-24265 |
 | CVE-2022-24266 |  SQL injection vulnerability in /administrator/components/table_manager/ via the order_by parameter. | 7.5 | https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-24266 | https://nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-24266 |
