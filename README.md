@@ -2,6 +2,7 @@
 ---
 | CVE ID               | Description| CVSS 3.0  |       CVE MITRE           |       NVD           | 
 | -------------------- | --------- | --------- | -------------------------| --------------------| 
+| CVE-2024-37486       |  Paid Memberships Pro Plugin <= 3.0.5 Authenticated SQL Injection vulnerability | 7.6 | https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-37486 | https://nvd.nist.gov/vuln/detail/CVE-2024-37486 |
 | CVE-2024-6265        | UsersWP – Front-end login form, User Registration, User Profile & Members Directory plugin for WordPress <= 1.2.10 - Unauthenticated SQL Injection via 'uwp_sort_by' | 9.8 | https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-6265| https://nvd.nist.gov/vuln/detail/CVE-2024-6265|
 | CVE-2024-35736       | Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Themeisle Visualizer.This issue affects Visualizer: from n/a through 3.11.1.| 8.5 | https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-35736 | https://nvd.nist.gov/vuln/detail/CVE-2024-35736|
 | CVE-2022-24264       | SQL injection vulnerability in /administrator/components/table_manager/ via the search_word parameter| 7.5 | https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-24264 | https://nvd.nist.gov/view/vuln/detail?vulnId=CVE-2022-24264 |
